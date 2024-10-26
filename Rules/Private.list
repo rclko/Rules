@@ -7,9 +7,8 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,oracle.com
 DOMAIN-KEYWORD,chase.com
+
 # 国外DNS
-DOMAIN-SUFFIX,oracle.com
-DOMAIN-SUFFIX,chase.com
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
