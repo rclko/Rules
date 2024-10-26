@@ -1,12 +1,13 @@
-# ´úÀí²¹³äÁÐ±í
+# ä»£ç†è¡¥å……åˆ—è¡¨
 
-# ÓòÃûºó×ºÆ¥Åä
+# åŸŸååŽç¼€åŒ¹é…
 DOMAIN-SUFFIX,qichiyu.com
 
-# ÓòÃû¹Ø¼ü×ÖÆ¥Åä
+# åŸŸåå…³é”®å­—åŒ¹é…
 DOMAIN-KEYWORD,1e100
-
-# ¹úÍâDNS
+DOMAIN-KEYWORD,oracle.com
+DOMAIN-KEYWORD,chase.com
+# å›½å¤–DNS
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,chase.com
 IP-CIDR,8.8.8.8/32,no-resolve
