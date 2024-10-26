@@ -5,8 +5,8 @@ DOMAIN-SUFFIX,qichiyu.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,oracle.com
-DOMAIN-KEYWORD,chase.com
+DOMAIN-KEYWORD,oracle
+DOMAIN-KEYWORD,chase
 
 # 国外DNS
 IP-CIDR,8.8.8.8/32,no-resolve
